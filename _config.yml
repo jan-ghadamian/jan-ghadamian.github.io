@@ -1,0 +1,13 @@
+title: Jan Andrin Ghadamian
+description: Agent-Based Modelling, Surrogate Modelling, Synthetic demand & population generation
+theme: minima
+author: Jan Andrin Ghadamian
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
+  - cv.md
+  - blog.md
