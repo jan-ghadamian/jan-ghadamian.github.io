@@ -2,9 +2,23 @@
 layout: home
 ---
 
-# Jan Ghadamian
+<div class="intro">
+  <img
+    src="/assets/img/DSCF5021.jpg"
+    alt="Portrait of Jan Ghadamian"
+    class="intro-image"
+  />
 
-Based in Zürich.  
-Interested in research, digital policy, and public affairs.
+  <div class="intro-text">
+    Hi, I’m **Jan Ghadamian** — a doctoral student at the  
+    **Chair of Infrastructure Management** under **Prof. Dr. Bryan T. Adey**  
+    at **ETH Zürich (D-BAUG · IBI)**.
 
-This site contains my **CV**, **projects**, and **writing**.
+    <br><br>
+
+    On this site you’ll find:
+    - an overview of my **research and publications**
+    - information about my **teaching activities**
+    - ways to **get in touch**
+  </div>
+</div>
