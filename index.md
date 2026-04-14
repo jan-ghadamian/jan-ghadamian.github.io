@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 <div class="intro">
@@ -10,15 +10,19 @@ layout: home
   />
 
   <div class="intro-text">
-    Hi, I’m **Jan Ghadamian** — a doctoral student at the  
-    **Chair of Infrastructure Management** under **Prof. Dr. Bryan T. Adey**  
-    at **ETH Zürich (D-BAUG · IBI)**.
+    <p>
+      Hi, I’m <strong>Jan Ghadamian</strong> — a doctoral student at the
+      <strong>Chair of Infrastructure Management</strong> under
+      <strong>Prof. Dr. Bryan T. Adey</strong> at
+      <strong>ETH Zürich (D-BAUG · IBI)</strong>.
+    </p>
 
-    <br><br>
+    <p>On this site you’ll find:</p>
 
-    On this site you’ll find:
-    - an overview of my **research and publications**
-    - information about my **teaching activities**
-    - ways to **get in touch**
+    <ul>
+      <li>an overview of my <strong>research and publications</strong></li>
+      <li>information about my <strong>teaching activities</strong></li>
+      <li>ways to <strong>get in touch</strong></li>
+    </ul>
   </div>
 </div>

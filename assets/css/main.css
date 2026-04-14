@@ -1,0 +1,23 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.intro {
+  display: flex;
+  gap: 2rem;
+  max-width: 900px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+.intro img {
+  width: 160px;
+  height: auto;
+  border-radius: 6px;
+}
+
+.intro-text {
+  max-width: 600px;
+}
