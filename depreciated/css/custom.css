@@ -11,6 +11,15 @@
   border-radius: 6px;
 }
 
+/* constrain portrait image size */
+.intro-image {
+  width: 100%;
+  max-width: 180px;   /* match the grid column */
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+}
+
 .intro-text {
   max-width: 600px;
 }

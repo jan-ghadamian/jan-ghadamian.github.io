@@ -12,4 +12,5 @@ header_pages:
   - cv.md
   - blog.md
 
-# rebuild
+sass:
+  style: compressed
